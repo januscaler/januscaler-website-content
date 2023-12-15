@@ -1,13 +1,12 @@
-<template>
-    <div class="bg-gray-100">
-      <!-- Header Section -->
-      <header class="bg-blue-500 text-white py-12">
-        <div class="container mx-auto text-center">
-          <h1 class="text-4xl font-semibold">Pricing</h1>
-          <p class="text-lg mt-4">Choose the Right Plan for Your Needs</p>
-        </div>
-      </header>
-  
+<div class="bg-gray-100">
+<!-- Header Section -->
+<header class="bg-blue-500 text-white py-12">
+<div class="container mx-auto text-center">
+    <h1 class="text-4xl font-semibold">Pricing</h1>
+    <p class="text-lg mt-4">Choose the Right Plan for Your Needs</p>
+</div>
+</header>
+
 <!-- Pricing Plans -->
 <section class="py-16">
 <div class="container mx-auto">
